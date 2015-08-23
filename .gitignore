@@ -8,6 +8,7 @@
 *.py.disabled
 .project
 .pydevproject
+.directory
 venv/
 virtenv/
 dist/
